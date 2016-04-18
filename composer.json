@@ -1,0 +1,22 @@
+{
+    "name": "peterfriz/yii2-page-visibility",
+    "description": "JS plugin that enables reacting to changes in the visibility state of a webpage",
+    "keywords": ["yii2", "extension", "page visibility"],
+    "homepage": "https://github.com/peterfriz/yii2-page-visibility",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "Piet de Vries",
+            "email": "peterfriz@pietdevries.nl",
+            "homepage": "http://www.pietdevries.nl/"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "peterfriz\\page-visibility\\": ""
+        }
+    }
+}
